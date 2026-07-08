@@ -44,19 +44,10 @@ This Power BI dashboard analyzes the sales performance of Lakshmi Ecommerce. It 
 ##  Project Files
 ```
  Lakshmi-Ecommerce-Sales-Dashboard
-│── Lakshmi Ecommerce Dashboard.pbix
-│── Lakshmi Ecommerce Dataset.xlsx
-│── README.md
-│── dashboard.png
-```
-
----
-
-##  Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
+    Lakshmi Ecommerce Dashboard.pbix
+    Lakshmi Ecommerce Dataset.xlsx
+    README.md
+    dashboard.png
 
 ##  How to Use
 1. Clone this repository.
