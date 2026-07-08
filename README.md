@@ -2,7 +2,7 @@
 # Lakshmi Ecommerce Sales Dashboard (Power BI)
 
 ##  Project Overview
-This Power BI dashboard analyzes the sales performance of Madhav Ecommerce. It provides interactive insights into sales, profit, quantity, customer behavior, payment methods, and product categories to support business decision-making.
+This Power BI dashboard analyzes the sales performance of Lakshmi Ecommerce. It provides interactive insights into sales, profit, quantity, customer behavior, payment methods, and product categories to support business decision-making.
 
 ---
 
