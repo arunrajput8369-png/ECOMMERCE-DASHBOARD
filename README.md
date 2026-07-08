@@ -33,7 +33,7 @@ This Power BI dashboard analyzes the sales performance of Lakshmi Ecommerce. It 
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Microsoft Power BI
 - Power Query
 - DAX
@@ -52,7 +52,7 @@ This Power BI dashboard analyzes the sales performance of Lakshmi Ecommerce. It 
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
